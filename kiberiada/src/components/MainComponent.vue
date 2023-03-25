@@ -16,10 +16,8 @@
       <v-row class="d-flex align-center justify-center">
         <v-col cols="auto">
           <v-btn
-            href="https://next.vuetifyjs.com/components/all/"
+            to="/code-roaster"
             min-width="164"
-            rel="noopener noreferrer"
-            target="_blank"
             variant="text"
           >
             <v-icon
@@ -28,7 +26,7 @@
               start
             />
 
-            Components
+            Code Roaster
           </v-btn>
         </v-col>
 
@@ -54,7 +52,7 @@
 
         <v-col cols="auto">
           <v-btn
-            href="https://community.vuetifyjs.com/"
+            href="https://github.com/kibertoad/kiberiada-website"
             min-width="164"
             rel="noopener noreferrer"
             target="_blank"
@@ -66,7 +64,7 @@
               start
             />
 
-            Community
+            Source code
           </v-btn>
         </v-col>
       </v-row>
