@@ -3,5 +3,5 @@
 </template>
 
 <script lang="ts" setup>
-  import MainComponent from '@/components/MainComponent.vue'
+  import MainComponent from '@/modules/home/HomeComponent.vue'
 </script>

@@ -1,11 +1,10 @@
 <template>
   <v-app>
     <v-main>
-      <MainComponent />
+      <router-view />
     </v-main>
   </v-app>
 </template>
 
 <script setup lang="ts">
-  import MainComponent from '@/components/MainComponent.vue'
 </script>

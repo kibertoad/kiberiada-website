@@ -33,11 +33,9 @@
         <v-col cols="auto">
           <v-btn
             color="primary"
-            href="https://next.vuetifyjs.com/introduction/why-vuetify/#feature-guides"
+            to="/"
             min-width="228"
-            rel="noopener noreferrer"
             size="x-large"
-            target="_blank"
             variant="flat"
           >
             <v-icon
@@ -46,7 +44,7 @@
               start
             />
 
-            Get Started
+            Home
           </v-btn>
         </v-col>
 
